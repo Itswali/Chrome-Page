@@ -929,6 +929,7 @@ ul.dropdown-list::before {
   border-radius: var(--border-radius);
   pointer-events: none;
 }
+
 ul.dropdown-list:hover::before,
 ul.dropdown-list:hover ~ .floating-icon {
   opacity: 1;
